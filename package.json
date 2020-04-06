@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elizabethrego/cordova-plugin-unimag-swiper.git"
+    "url": "git+https://github.com/tuanway/cordova-plugin-unimag-swiper.git"
   },
   "keywords": [
     "wodify", "idtech", "unimag", "swiper", "card reader", "credit card"
@@ -25,13 +25,13 @@
   "author": "",
   "license": "MIT License, see LICENSE.md for details",
   "bugs": {
-    "url": "https://github.com/elizabethrego/cordova-plugin-unimag-swiper/issues"
+    "url": "https://github.com/tuanway/cordova-plugin-unimag-swiper/issues"
   },
-  "homepage": "https://github.com/elizabethrego/cordova-plugin-unimag-swiper#readme",
+  "homepage": "https://github.com/tuanway/cordova-plugin-unimag-swiper#readme",
   "gitHead": "2c094360f018e8697cac5054bf16dad3ce93bf0b",
   "readmeFilename": "README.md",
   "_id": "com.wodify.cordova.plugin.unimag-swiper@0.0.2",
   "_shasum": "abe55e103ead0663f8c3aef670afb01901028850",
-  "_from": "git+https://github.com/elizabethrego/cordova-plugin-unimag-swiper.git",
-  "_resolved": "git+https://github.com/elizabethrego/cordova-plugin-unimag-swiper.git#2c094360f018e8697cac5054bf16dad3ce93bf0b"
+  "_from": "git+https://github.com/tuanway/cordova-plugin-unimag-swiper.git",
+  "_resolved": "git+https://github.com/tuanway/cordova-plugin-unimag-swiper.git#2c094360f018e8697cac5054bf16dad3ce93bf0b"
 }
