@@ -624,7 +624,7 @@ public class UnimagSwiper extends CordovaPlugin implements uniMagReaderMsg {
     *     File name with path.
     */
     private String getXMLConfigFile() {
-        String fileName = "IDT_uniMagCfg.xml";
+        String fileName = "idt_unimagcfg.xml";
 
         try {
             int resId = context.getResources().getIdentifier("idt_unimagcfg","raw", 
