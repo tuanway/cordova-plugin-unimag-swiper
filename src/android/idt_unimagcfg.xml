@@ -627,6 +627,13 @@
    <OutputFreq>48000</OutputFreq>
    <baudRate>4800</baudRate>
   </sgh-i717d>  
+  <sm-n910t>
+   <support_status val="um2=s;um2i=s;shuttle=s"> </support_status>
+   <directionOutputWave>1</directionOutputWave>
+   <InputFreq>22050</InputFreq>
+   <OutputFreq>48000</OutputFreq>
+   <baudRate>4800</baudRate>
+  </sm-n910t>
   <sph-d600>
    <support_status val="um2=s;um2i=s;shuttle=s"> </support_status>
    <directionOutputWave>1</directionOutputWave>
